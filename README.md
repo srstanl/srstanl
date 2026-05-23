@@ -21,7 +21,7 @@ My engineering philosophy is simple:
 
 - Azure architecture & AZ-305 preparation
 - CI/CD and production stability practices
-- Backend development (C#, Java, TypeScript)
+- Backend development (C#, Javascript)
 - Platform engineering and developer enablement
 - Observability and operational clarity
 
@@ -30,7 +30,7 @@ My engineering philosophy is simple:
 ## Technologies & Areas of Interest
 
 ### Languages
-C# • Java • TypeScript • JavaScript • Scala
+C#  • TypeScript • JavaScript • Python
 
 ### Platforms & Infrastructure
 Azure • Kubernetes • Docker • CI/CD • GitHub Actions
