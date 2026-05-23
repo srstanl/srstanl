@@ -1,77 +1,79 @@
 # Hi, I'm Sian 👋
 
-Senior Software Engineer focused on backend systems, CI/CD, cloud platforms, and distributed systems.
+Senior Software Engineer focused on Platform Engineering, Developer Experience, CI/CD systems, and cloud-enabled delivery.
 
-I enjoy building software that is reliable in real production environments — with a strong emphasis on developer experience, deployment confidence, observability, and maintainability.
-
-Over the years I've worked across:
-- Backend application development
-- CI/CD pipeline design and automation
-- Cloud platform migrations
-- Distributed systems and event-driven architecture
-- Logging, monitoring, and production diagnostics
-
-My engineering philosophy is simple:
-
-> Good systems reduce friction, improve clarity, and help teams ship with confidence.
+I build systems that help engineering teams ship safely and confidently: reusable delivery workflows, deployment guardrails, observability patterns, and platform tooling that reduces friction instead of creating bottlenecks.
 
 ---
 
 ## Current Focus
 
-- Azure architecture & AZ-305 preparation
-- CI/CD and production stability practices
-- Backend development (C#, Javascript)
 - Platform engineering and developer enablement
-- Observability and operational clarity
+- CI/CD standardization, quality gates, and deployment confidence
+- Azure cloud architecture and platform adoption
+- Observability, logging, and operational clarity
+- Practical AI-assisted engineering workflows
 
 ---
 
-## Technologies & Areas of Interest
+## Technical Background
 
-### Languages
-C#  • TypeScript • JavaScript • Python
+Over the past 15+ years, I’ve worked across enterprise software engineering, cloud modernization, CI/CD automation, observability, and deployment governance.
 
-### Platforms & Infrastructure
-Azure • Kubernetes • Docker • CI/CD • GitHub Actions
+My experience spans:
 
-### Distributed Systems & Data
-Kafka • Event-Driven Systems • Cassandra • Cosmos DB
-
-### Observability
-Splunk • OpenObserve • Logging & Monitoring Systems
+- Azure DevOps, GitHub Actions, Jenkins
+- CI/CD architecture and release automation
+- Observability and centralized logging (ELK, Graylog, Splunk)
+- Artifact/package management (NuGet, Maven, npm)
+- Distributed systems and cloud-enabled platforms
+- .NET, JavaScript/TypeScript, Java, Scala
+- PowerShell automation and operational tooling
+- PCI-regulated enterprise environments
 
 ---
 
-## Projects & Repositories
+## Engineering Philosophy
+
+- Build guardrails, not bottlenecks
+- Improve systems, not just tickets
+- Favor maintainable automation over unnecessary complexity
+- Developer experience matters
+- Observability should create operational clarity
+- CI/CD is about trust, confidence, and repeatability
+- Make the right way the easy way
+
+---
+
+## Featured Links
 
 ### Portfolio
-A collection of projects, experiments, and reference implementations.
+
+A work-in-progress collection of platform engineering notes, experiments, and reference implementations.
 
 ➡️ https://github.com/srstanl/portfolio
 
 ### Playground
-A space for learning, experimentation, and trying out new ideas and technologies.
+
+Experiments, prototypes, and technical tinkering.
 
 ➡️ https://github.com/srstanl/playground
 
----
+### Writing & Thoughts
 
-## Writing & Professional Links
-
-- LinkedIn: https://www.linkedin.com/in/sian-stanley/
 - Medium: https://medium.com/@sianstanley
+- LinkedIn: https://www.linkedin.com/in/sian-stanley/
 
 ---
 
-## A Few Principles I Try To Follow
+## Currently Exploring
 
-- Build systems that are understandable by the next engineer
-- Prefer operational clarity over unnecessary complexity
-- Treat CI/CD as a shared engineering responsibility
-- Design alerts and tooling for actionable response, not noise
-- Optimize for maintainability and long-term delivery confidence
+- Azure architecture and platform engineering patterns
+- Observability and operational maturity
+- AI-assisted development workflows
+- Infrastructure automation and developer enablement
+- Sustainable engineering systems and delivery practices
 
 ---
 
-Thanks for stopping by.
+> “The goal is not a platform where you are the bottleneck.”
