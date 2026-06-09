@@ -49,9 +49,15 @@ My experience spans:
 
 ### Portfolio
 
-A work-in-progress collection of platform engineering notes, experiments, and reference implementations.
+My umbrella portfolio repository for platform engineering assets, delivery standards, and reference implementations.
 
 ➡️ https://github.com/srstanl/portfolio
+
+### Incubator
+
+Projects that have moved beyond experimentation and are being hardened toward portfolio-grade shape.
+
+➡️ https://github.com/srstanl/incubator
 
 ### Playground
 
